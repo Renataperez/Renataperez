@@ -8,5 +8,5 @@
 | Master in Business Analytics         | Hult International Business School     | April, 2022 (expected)      |
 
 #### Connect with me:
-- Tableau profile  : [here](https://public.tableau.com/app/profile/renata.p.rez.retes#!/?newProfile=&activeTab=0)
+- Tableau profile  : [here](https://public.tableau.com/app/profile/renataperezretes)
 - LinkedIn profile : [here](https://www.linkedin.com/in/renataperezretes/)
